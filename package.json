@@ -1,5 +1,5 @@
 {
-  "homepage": "https://github.com/rajendra-jat7/myportfolio",
+  "homepage": "https://rajendra-jat7.github.io",
   "name": "developers-portfolio",
   "description": "A personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects.",
   "version": "2.0.0",
@@ -9,8 +9,6 @@
     "@testing-library/user-event": "^13.5.0",
     "axios": "^0.27.2",
     "bootstrap": "^5.2.0",
-    "sass": "^1.54.3",
-    "react-typist-component": "^1.0.3",
     "react": "^18.2.0",
     "react-bootstrap": "^2.5.0",
     "react-dom": "^18.2.0",
@@ -18,6 +16,8 @@
     "react-router": "^6.3.0",
     "react-router-dom": "^6.3.0",
     "react-scripts": "5.0.1",
+    "react-typist-component": "^1.0.3",
+    "sass": "^1.54.3",
     "typescript": "^4.7.4",
     "web-vitals": "^2.1.4"
   },
