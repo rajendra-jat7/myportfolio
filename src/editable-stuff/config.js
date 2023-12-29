@@ -105,10 +105,10 @@ const skills = {
   hardSkills: [
     { name: "React", value: 90 },
     { name: "JavaScript", value: 90 },
-    { name: "Data Structures", value: 70 },
     { name: "HTML/CSS", value: 90 },
-    { name: "TypeScript", value: 50 },
-    { name: "SQL", value: 50 },
+    { name: "TypeScript", value: 80 },
+    { name: "Data Structures", value: 70 },
+    { name: "Java", value: 70 },
   ],
   softSkills: [
     { name: "Goal-Oriented", value: 80 },
